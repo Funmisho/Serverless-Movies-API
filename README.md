@@ -137,3 +137,14 @@ GetMoviesByYear?year=2022
 6. **Test the API**
   - Use Postman or a similar tool to test the endpoints.
 
+## Contributing
+Contributions are welcome! For major changes, kindly open an issue first to discuss what you would like to change.
+
+## Credits
+- **Author**: Akinmi Oluwabukunmi Funmisho
+- **Acknowledgements**: Thanks to @madebygps https://github.com/madebygps for their https://learntocloud guide which was the template for the knowledge to do this project
+
+## License
+This project is open source and available under the MIT License.
+- 
+
